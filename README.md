@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/253868485.svg)](https://zenodo.org/badge/latestdoi/253868485)
+
+
 # data2wikibase
 Example to load a Wikibase docker instance by means of python. More information at [data.cervantesvirtual.com](http://data.cervantesvirtual.com/blog/2020/04/07/primeros-pasos-con-wikibase/).
 
